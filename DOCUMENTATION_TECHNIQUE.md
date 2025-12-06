@@ -118,9 +118,7 @@ cd MichelinLibrary
 
 Créer le fichier `.env` dans le dossier `backend` :
 
-```env
-DATABASE_URL="postgresql://michelin:michelin123@database:5432/michelin_library"
-```
+(Possibilité de copier le contenu du .env.example dans le cadre de l'exercice)
 
 **3. Lancer l'application**
 
