@@ -433,3 +433,4 @@ docker-compose logs database
 - Pour créer ou modifier un livre : ajouter une preview des "Catégorie" déjà existantes pour éviter les doublons et simplifier les créations/modifications.
 - Ajouter des options de tri.
 - Importer directement des images pour les couvertures.
+- Pagination des livres, pour améliorer la performance et l'expérience utilisateur lors de la consultation de grandes bibliothèques.
